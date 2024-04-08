@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: holmc
+      POSTGRES_DB: HomeWork
+      POSTGRES_PASSWORD: 12345
+    ports:
+      - 15432:5432

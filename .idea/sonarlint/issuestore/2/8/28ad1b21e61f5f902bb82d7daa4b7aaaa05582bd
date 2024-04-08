@@ -1,0 +1,5 @@
+
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ûˆæ1
+R
+java:S1141"5Extract this nested try block into a separate method.(ŒÊ×É8¡´‹‰æ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜‹şÿÿÿÿ8ûˆæ1

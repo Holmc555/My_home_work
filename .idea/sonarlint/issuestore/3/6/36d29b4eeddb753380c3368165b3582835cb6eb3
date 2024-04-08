@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àÿªıÿÿÿÿ8ë×ãİİ1
+…
+java:S4165"iRemove this useless assignment; "projectName" already holds the assigned value along all execution paths.(ä´—8÷û€«å1
+K
+java:S1656"/Remove or correct this useless self-assignment.(ä´—8”ü€«å1
